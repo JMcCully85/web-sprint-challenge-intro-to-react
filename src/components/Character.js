@@ -6,12 +6,12 @@ import styled from "styled-components";
 const StyledChar = styled.h1``;
 
 const StyledDiv = styled.div`
-  padding: 8px;
+  padding: 10px;
   border: 5px;
   border-radius: 25px;
   &:hover {
-    transition: all 0.2s ease-in-out;
-    background-color: gray;
+    transition: all 0.3s ease-in-out;
+    background-color: tan;
     transform: scale(1.1);
     color: black;
     font-weight: bold;
